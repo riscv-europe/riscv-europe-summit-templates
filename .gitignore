@@ -1,0 +1,47 @@
+# Ignore all emacs backup and autosave files.
+*~
+[#]*[#]
+
+# Ignore MS garbage
+.~lock*
+
+# Ignore the Mac OS hidden folders.
+.DS_Store
+
+# Ignore produced PDF files.
+pre-prop/*.pdf
+prop-det/*.pdf
+
+# Ignore generated Tex files.
+prop-det/project/*.tex
+
+# Ignore document version generated from Git
+current-repo-version.tmp
+
+# Ignore LaTeX intermediate files.
+*.acn
+*.acr
+*.alg
+*.aux
+*.bcf
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.run.xml
+*.synctex.gz
+*.tdo
+*.toc
