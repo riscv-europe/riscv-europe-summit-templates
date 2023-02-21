@@ -148,7 +148,7 @@
 \setlength{\thanksmarkwidth}{3pt} % Left margin for the first \thanks line
 \setlength{\thanksmargin}{-3pt} % Left margin for the second and onwards \thanks line
 
-\patchcmd{\maketitle}{plain}{empty}{}{} % Set the headers and footers style for the first page to empty
+\patchcmd{\maketitle}{plain}{fancy}{}{} % Set the headers and footers style for the first page to empty
 
 %----------------------------------------------------------------------------------------
 %	ABSTRACT CUSTOMIZATION
