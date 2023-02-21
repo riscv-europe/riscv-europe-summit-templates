@@ -8,16 +8,6 @@
 # Ignore the Mac OS hidden folders.
 .DS_Store
 
-# Ignore produced PDF files.
-pre-prop/*.pdf
-prop-det/*.pdf
-
-# Ignore generated Tex files.
-prop-det/project/*.tex
-
-# Ignore document version generated from Git
-current-repo-version.tmp
-
 # Ignore LaTeX intermediate files.
 *.acn
 *.acr
