@@ -38,3 +38,6 @@
 
 # Local conf. of Makefiles.
 local-conf.mk
+
+# Produced PDF do not belong to the repo.
+/LaTeX/*.pdf
