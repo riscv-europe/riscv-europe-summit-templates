@@ -105,6 +105,24 @@ This is a bullet point list:
 
 Mauris interdum porttitor fringilla. Proin tincidunt sodales leo at ornare. Donec tempus magna non mauris gravida luctus. Cras vitae arcu vitae mauris eleifend scelerisque. Nam sem sapien, vulputate nec felis eu, blandit convallis risus. Pellentesque sollicitudin venenatis tincidunt. In et ipsum libero. Nullam tempor ligula a massa convallis pellentesque.
 
+\begin{table} % Single column table
+       \caption{Example single column table.}
+       \centering
+       \begin{tabular}{l l r}
+               \toprule
+               \multicolumn{2}{c}{Location} \\
+               \cmidrule(r){1-2}
+               East Distance & West Distance & Count \\
+               \midrule
+               100km & 200km & 422 \\
+               350km & 1000km & 1833 \\
+               600km & 1200km & 890 \\
+               \bottomrule
+       \end{tabular}
+       \label{tab:distcounts}
+\end{table}
+
+
 This is a numbered list:
 
 \begin{enumerate}
