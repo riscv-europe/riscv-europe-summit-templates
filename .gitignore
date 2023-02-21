@@ -35,3 +35,6 @@
 *.synctex.gz
 *.tdo
 *.toc
+
+# Local conf. of Makefiles.
+local-conf.mk
