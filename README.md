@@ -13,14 +13,14 @@ Bear with the [Call for
 Submission](https://riscv-europe.org/program.html) rules to make sure
 that your submision is anonymous, or not, depending on the topic.
 
-The LaTeX template is in the `LaTeX/` subdirectory.  The main LaTeX
-source file is `template.tex`, where most of the article is expected
-to be, but the pictures.
+The LaTeX template is in the [`LaTeX/`](LaTeX) subdirectory.  The main
+LaTeX source file is [`template.tex`](LaTeX/template.tex), where most
+of the article is expected to be, but the pictures.
 
 It builds successfuly on a `Ubuntu 20.04 LTS` using [`TeX live
 2022`](https://www.tug.org/texlive/).
 
-The main targets of the `Makefile` are:
+The main targets of the [`Makefile`](LaTeX/Makefile) are:
 
  - `all` to compile the PDF.
  
@@ -34,9 +34,9 @@ The main targets of the `Makefile` are:
    
  - `clobber` do as `clean` and also delete the local PDF produced.
 
-More details are in the `Makefile` comments.
+More details are in the [`Makefile`](LaTeX/Makefile) comments.
 
 ## Word template
 
-The Word template is in the `Word/` subdirectory and is named
-`template.docx`.
+The Word template is in the [`Word/`](Word/) subdirectory and is named
+[`template.docx`](Word/template.docx).
