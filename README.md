@@ -32,7 +32,7 @@ The main targets of the [`Makefile`](LaTeX/Makefile) are:
  - `clean` and `clear` both do the ame thing and erase the uselss
    files from the LaTeX compilation process.
    
- - `clobber` do as `clean` and also delete the local PDF produced.
+ - `clobber` do as `clean` and also deletes the local PDF produced.
 
 More details are in the [`Makefile`](LaTeX/Makefile) comments.
 
