@@ -5,7 +5,7 @@ abstracts to the RISC-V Summit Europe.
 
 ## Document format
 
-Submitted 2 pages abstracts shall be formated as follows:
+The 2 pages extedned abstracts shall be formated as follows for submission:
 
  - Title, authors, affiliations and abstract shall be in single collumn mode.
 
@@ -23,7 +23,7 @@ Submitted 2 pages abstracts shall be formated as follows:
 
  - The core of the submission shall be in two columns.
 
- - Text is in 10 pt.
+ - Core text is in 10 pt.
 
  - Level 1 headings in 14 pt, centered.
 
@@ -35,7 +35,7 @@ Submitted 2 pages abstracts shall be formated as follows:
 
    - On the left "RISC-V Summit Europe, Barcelona, 5-9th June 2023" in 9 pt italics.
 
-   - On the right, the page number, in non italics bold.
+   - On the right, the page number, in non italics bold 9 pt.
 
  - The footer on even pages shall have the left and right odd footer switched.
 
