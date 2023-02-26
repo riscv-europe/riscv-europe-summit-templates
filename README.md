@@ -3,6 +3,44 @@
 These are the two templates, Word and LaTeX, to use to submit 2 pages
 abstracts to the RISC-V Summit Europe.
 
+## Document format
+
+Submitted 2 pages abstracts shall be formated as follows:
+
+ - Title, authors, affiliations and abstract shall be in single collumn mode.
+
+ - Font shall be Times New Roman throughout the document.
+
+ - Title is in 24 pt.
+
+ - Author names in 12 pt.
+
+ - Author affiliations in 8 pt.
+
+ - The "Abstract" heading shall be in 10 pt bold.
+
+ - Abstract body in 9 pt italics.
+
+ - The core of the submission shall be in two columns.
+
+ - Text is in 10 pt.
+
+ - Level 1 headings in 14 pt, centered.
+
+ - Level 2 headings in 12 pt, left aligned.
+
+ - No header.
+
+ - The footer on odd pages shall have:
+
+   - On the left "RISC-V Summit Europe, Barcelona, 5-9th June 2023" in 9 pt italics.
+
+   - On the right, the page number, in non italics bold.
+
+ - The footer on even pages shall have the left and right odd footer switched.
+
+ - The font for bibliography entries can be reduced to 8 pt.
+
 ## LaTeX template
 
 The template is based on [The Journal
