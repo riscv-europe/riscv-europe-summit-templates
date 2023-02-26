@@ -1,7 +1,7 @@
 # RISC-V Summit Europe templates
 
-These are the two templates, Word and LaTeX, to use to submit 2 pages
-abstracts to the RISC-V Summit Europe.
+The expected formating of the two pages abstracts is detailled below,
+together with two templates, for Word and LaTeX.
 
 ## Document format
 
