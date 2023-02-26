@@ -5,7 +5,7 @@ together with two templates, for Word and LaTeX.
 
 ## Document format
 
-The 2 pages extedned abstracts shall be formated as follows for submission:
+The 2 pages extended abstracts shall be formated as follows for submission:
 
  - Title, authors, affiliations and abstract shall be in single collumn mode.
 
