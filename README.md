@@ -41,6 +41,9 @@ The 2 pages extended abstracts shall be formated as follows for submission:
 
  - The font for bibliography entries can be reduced to 8 pt.
 
+A sample *lorem ipsum* document formated according to these rules is
+available [online](https://riscv-europe.org/media/template/template.pdf).
+
 ## LaTeX template
 
 The template is based on [The Journal
