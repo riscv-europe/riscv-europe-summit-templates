@@ -68,7 +68,7 @@
 
 \linespread{1.05} % Increase line spacing slightly
 
-\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+%\usepackage{microtype} % Slightly tweak font spacing for aesthetics
 
 %----------------------------------------------------------------------------------------
 %	HEADERS AND FOOTERS
