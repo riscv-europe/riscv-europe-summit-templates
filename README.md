@@ -70,7 +70,7 @@ The main targets of the [`Makefile`](LaTeX/Makefile) are:
 
  - `view` to preview the produced PDF
  
- - `clean` and `clear` both do the ame thing and erase the uselss
+ - `clean` and `clear` both do the same thing and erase the useless
    files from the LaTeX compilation process.
    
  - `clobber` do as `clean` and also deletes the local PDF produced.
