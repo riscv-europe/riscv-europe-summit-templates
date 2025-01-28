@@ -33,7 +33,7 @@ The 2 pages extended abstracts shall be formated as follows for submission:
 
  - The footer on odd pages shall have:
 
-   - On the left "RISC-V Summit Europe, Paris, 12-15th June 2025" in 9 pt italics.
+   - On the left "RISC-V Summit Europe, Paris, 12-15th May 2025" in 9 pt italics.
 
    - On the right, the page number, in non italics bold 9 pt.
 
