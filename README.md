@@ -33,7 +33,7 @@ The 2 pages extended abstracts shall be formated as follows for submission:
 
  - The footer on odd pages shall have:
 
-   - On the left "RISC-V Summit Europe, Barcelona, 5-9th June 2023" in 9 pt italics.
+   - On the left "RISC-V Summit Europe, Paris, 12-15th June 2025" in 9 pt italics.
 
    - On the right, the page number, in non italics bold 9 pt.
 
@@ -51,7 +51,7 @@ Article](http://www.latextemplates.com/template/journal-article) from
 the site [LaTeX Templates](http://www.latextemplates.com).
 
 Bear with the [Call for
-Submission](https://riscv-europe.org/summit/2024/cfp) rules to make sure
+Submission](https://riscv-europe.org/summit/2025/cfp) rules to make sure
 that your submision is anonymous, or not, depending on the topic.
 
 The LaTeX template is in the [`LaTeX/`](LaTeX) subdirectory.  The main
