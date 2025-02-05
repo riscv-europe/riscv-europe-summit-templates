@@ -1,13 +1,13 @@
 # RISC-V Summit Europe templates
 
-The expected formating of the two pages abstracts is detailled below,
+The expected formatting of the two pages abstracts is detailed below,
 together with two templates, for Word and LaTeX.
 
 ## Document format
 
-The 2 pages extended abstracts shall be formated as follows for submission:
+The 2 pages extended abstracts shall be formatted as follows for submission:
 
- - Title, authors, affiliations and abstract shall be in single collumn mode.
+ - Title, authors, affiliations and abstract shall be in single column mode.
 
  - Font shall be Times New Roman throughout the document.
 
@@ -41,7 +41,7 @@ The 2 pages extended abstracts shall be formated as follows for submission:
 
  - The font for bibliography entries can be reduced to 8 pt.
 
-A sample *lorem ipsum* document formated according to these rules is
+A sample *lorem ipsum* document formatted according to these rules is
 available [online](https://riscv-europe.org/summit/2024/media/template/template.pdf).
 
 ## LaTeX template
@@ -52,13 +52,13 @@ the site [LaTeX Templates](http://www.latextemplates.com).
 
 Bear with the [Call for
 Submission](https://riscv-europe.org/summit/2025/cfp) rules to make sure
-that your submision is anonymous, or not, depending on the topic.
+that your submission is anonymous, or not, depending on the topic.
 
 The LaTeX template is in the [`LaTeX/`](LaTeX) subdirectory.  The main
 LaTeX source file is [`template.tex`](LaTeX/template.tex), where most
 of the article is expected to be, but the pictures.
 
-It builds successfuly on a `Ubuntu 20.04 LTS` using [`TeX live
+It builds successfully on a `Ubuntu 20.04 LTS` using [`TeX live
 2023`](https://www.tug.org/texlive/).
 
 The main targets of the [`Makefile`](LaTeX/Makefile) are:
@@ -66,11 +66,11 @@ The main targets of the [`Makefile`](LaTeX/Makefile) are:
  - `all` to compile the PDF.
  
  - `timestamp` to compile the PDF, rename it with a timestamp, and
-   move it to a pre-secified directory `PDF_TARGET_DIR`.
+   move it to a pre-specified directory `PDF_TARGET_DIR`.
 
  - `view` to preview the produced PDF
  
- - `clean` and `clear` both do the ame thing and erase the uselss
+ - `clean` and `clear` both do the same thing and erase the useless
    files from the LaTeX compilation process.
    
  - `clobber` do as `clean` and also deletes the local PDF produced.
