@@ -76,6 +76,9 @@ The main targets of the [`Makefile`](LaTeX/Makefile) are:
    
  - `clobber` do as `clean` and also deletes the local PDF produced.
 
+ - `_variables`to help debug the [`Makefile`](LaTeX/Makefile) by
+   printing its display variables.
+
 More details are in the [`Makefile`](LaTeX/Makefile) comments.
 
 ## Word template
