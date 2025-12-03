@@ -84,4 +84,4 @@ More details are in the [`Makefile`](LaTeX/Makefile) comments.
 ## Word template
 
 The Word template is in the [`Word/`](Word/) subdirectory and is named
-[`template.docx`](Word/template.docx).
+[`RISCV-Summit-EU-template.docx`](Word/RISCV-Summit-EU-template.docx).
