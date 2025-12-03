@@ -35,7 +35,7 @@ The 2 pages extended abstracts shall be formated as follows for submission:
 
    - On the left "RISC-V Summit Europe, Bologna, 8-12th June 2026" in 9 pt italics.
 
-   - On the right, the page number, in italics 9 pt.
+   - On the right, the page number, in bold 9 pt.
 
  - The footer on even pages shall have the left and right odd footer switched.
 
