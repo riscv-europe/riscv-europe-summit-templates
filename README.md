@@ -58,8 +58,9 @@ The LaTeX template is in the [`LaTeX/`](LaTeX) subdirectory.  The main
 LaTeX source file is [`template.tex`](LaTeX/template.tex), where most
 of the article is expected to be, but the pictures.
 
-It builds successfuly on a `Ubuntu 20.04 LTS` using [`TeX live
-2023`](https://www.tug.org/texlive/).
+It builds successfuly using [`TeX live
+2025`](https://www.tug.org/texlive/) on a `Ubuntu 22.04 LTS`, and on
+`macOS Tahoe 26.1`.
 
 The main targets of the [`Makefile`](LaTeX/Makefile) are:
 
