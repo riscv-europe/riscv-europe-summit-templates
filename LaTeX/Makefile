@@ -67,3 +67,15 @@ clean clear:
 ## Remove also the produced PDF.
 clobber: clean
 	rm -f $(ARTICLE).pdf
+
+## To debug this Makefile
+.PHONY: _variables
+_variables: \
+	_print_ARTICLE \
+	_print_ARTICLE_INC \
+	_print_TIMESTAMP \
+	_print_PDF_VIEWER \
+	_print_PDF_TARGET_DIR
+
+_print_%:
+	@/bin/echo '$*=$($*)' and was set in '"$(origin $*)"'
