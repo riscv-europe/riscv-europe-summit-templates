@@ -2,7 +2,7 @@
 ARTICLE_INC=
 
 
-# Include local configuration, if any, where variable can be set.
+# Include local configuration, if any, where variables can be set.
 sinclude local-conf.mk
 
 
