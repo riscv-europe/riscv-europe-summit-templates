@@ -17,7 +17,7 @@ The 2 pages extended abstracts shall be formated as follows for submission:
 
  - Author affiliations in 8 pt.
 
- - The "Abstract" heading shall be in 10 pt bold.
+ - The "**Abstract**" heading shall be in 10 pt bold.
 
  - Abstract body in 9 pt italics.
 
@@ -25,17 +25,17 @@ The 2 pages extended abstracts shall be formated as follows for submission:
 
  - Core text is in 10 pt.
 
- - Level 1 headings in 14 pt, centered.
+ - Level 1 headings in 14 pt **bold**, centered.
 
- - Level 2 headings in 12 pt, left aligned.
+ - Level 2 headings in 12 pt **bold**, left aligned.
 
  - No header.
 
  - The footer on odd pages shall have:
 
-   - On the left "RISC-V Summit Europe, Bologna, 8-12th June 2026" in 9 pt italics.
+   - On the left "*RISC-V Summit Europe, Bologna, 8-12th June 2026*" in 9 pt italics.
 
-   - On the right, the page number, in bold 9 pt.
+   - On the right, the **page number**, in bold 9 pt.
 
  - The footer on even pages shall have the left and right odd footer switched.
 
