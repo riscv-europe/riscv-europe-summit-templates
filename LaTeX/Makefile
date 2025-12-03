@@ -1,5 +1,5 @@
 # No LaTeX included files at first.
-ARTICLE_INC=
+ARTICLE_INC+=
 
 
 # Include local configuration, if any, where variables can be set.
