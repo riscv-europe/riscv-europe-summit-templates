@@ -28,10 +28,10 @@ ARTICLE_INC+=
 # Timestamp and delivery directory for the article.
 
 ## The current status of this repo. is used as timestamp.
-TIMESTAMP:=$(shell git describe --long --tags --always --abbrev=8)
+# TIMESTAMP:=$(shell git describe --long --tags --always --abbrev=8)
 
 ## Or it could be the local date.
-# TIMESTAMP:=v$(shell date '+%Y-%m-%d-%Hh%M')
+TIMESTAMP:=v$(shell date '+%Y-%m-%d-%Hh%M')
 
 ## Where to deliver the timestamped copy.
 PDF_TARGET_DIR?=.
