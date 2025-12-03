@@ -1,7 +1,7 @@
 # RISC-V Summit Europe templates
 
 The expected formating of the two pages abstracts is detailled below,
-together with two templates, for Word and LaTeX.
+together with three templates, for Word, LibreOffice and LaTeX.
 
 ## Document format
 
