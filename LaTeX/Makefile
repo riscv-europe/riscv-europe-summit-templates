@@ -6,10 +6,15 @@ ARTICLE_INC=
 sinclude local-conf.mk
 
 
-# The PDF viewer of choice.
+# Select the PDF viewer.
 
-## Assume Ubuntu's evince.
+ifeq ($(shell uname -s),Darwin)
+## On a Mac, use "open" unless stated otherwise.
+PDF_VIEWER?=open
+else
+## Elsewhere, default to Ubuntu's "evince".
 PDF_VIEWER?=evince
+endif
 
 
 # The main LaTeX file.
