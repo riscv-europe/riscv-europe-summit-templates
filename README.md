@@ -85,3 +85,9 @@ More details are in the [`Makefile`](LaTeX/Makefile) comments.
 
 The Word template is in the [`Word/`](Word/) subdirectory and is named
 [`RISCV-Summit-EU-template.docx`](Word/RISCV-Summit-EU-template.docx).
+
+## LibreOffice template
+
+The LibreOffice template is in the [`LibreOffice/`](LibreOffice/)
+subdirectory and is named
+[`RISCV-Summit-EU-template.odt`](LibreOffice/RISCV-Summit-EU-template.docx).
