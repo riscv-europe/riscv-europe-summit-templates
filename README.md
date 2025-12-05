@@ -90,4 +90,4 @@ The Word template is in the [`Word/`](Word/) subdirectory and is named
 
 The LibreOffice template is in the [`LibreOffice/`](LibreOffice/)
 subdirectory and is named
-[`RISCV-Summit-EU-template.odt`](LibreOffice/RISCV-Summit-EU-template.docx).
+[`RISCV-Summit-EU-template.odt`](LibreOffice/RISCV-Summit-EU-template.odt).
