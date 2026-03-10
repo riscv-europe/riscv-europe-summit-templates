@@ -1,7 +1,7 @@
 # RISC-V Summit Europe templates
 
 The expected formating of the two pages abstracts is detailled below,
-together with three templates, for Word, LibreOffice and LaTeX.
+together with four templates, for Word, LibreOffice, LaTeX and Typst.
 
 ## Document format
 
@@ -80,6 +80,37 @@ The main targets of the [`Makefile`](LaTeX/Makefile) are:
    printing internal variables.
 
 More details are in the [`Makefile`](LaTeX/Makefile) comments.
+
+## Typst template
+
+The Typst template is in the [`Typst/`](Typst) subdirectory.  The main
+Typst source file is [`template.typ`](Typst/template.typ), with the
+document class defined in
+[`SummitEUArticle.typ`](Typst/SummitEUArticle.typ).
+
+It builds successfully using [Typst](https://typst.app/) (tested with
+Typst 0.12) on `macOS` and `Linux`.
+
+The main targets of the [`Makefile`](Typst/Makefile) are:
+
+ - `all` to compile the PDF.
+
+ - `timestamp` to compile the PDF, rename it with a timestamp, and
+   move it to a pre-specified directory `PDF_TARGET_DIR`.
+
+ - `view` to preview the produced PDF.
+
+ - `blind` to compile a blind-submission PDF (`template-blind.pdf`)
+   with author names replaced by "Author 1", "Author 2", etc. and
+   affiliations replaced by "Affiliation 1", etc.
+
+ - `clean`, `clear` and `clobber` all delete the produced PDFs (Typst
+   does not generate intermediate files).
+
+ - `_variables` to help debug the [`Makefile`](Typst/Makefile) by
+   printing internal variables.
+
+More details are in the [`Makefile`](Typst/Makefile) comments.
 
 ## Word template
 
